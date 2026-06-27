@@ -1,6 +1,7 @@
 import streamlit as st
 from google import genai
 from google.genai import types
+google-genai
 
 # 1. 시뮬레이션 몰입감을 위한 다크 테마 디자인
 st.set_page_config(page_title="EDEN: THE THREE REALMS", page_icon="👁️", layout="centered")
